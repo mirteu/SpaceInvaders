@@ -1,0 +1,50 @@
+OBJECTIVE
+
+Kill all the space invaders. score tallies. infinate wave shooter. As waves progress they get faster/shooting more projectiles/ etc...
+
+All entities get destroyed OnHit(). Walls are build up from lots of small blocks.
+
+
+
+MVP - Minimum Viable Product
+Timing and movement controller
+Invaders
+Player
+Projectile
+Wallblock - Blueprint
+Menu
+Audio
+Control System - Keyboard/mouse. Gamepad.
+Scoring
+Level
+UI widgets
+
+
+WISHLIST - Product Backlog
+Power Ups
+VR support with VR controllers (VR gamemode)
+1st person view
+Replenish walls
+Background Music
+High Score
+Local Co-op
+upgrade system (get currency per wave?) to spend on wave warm up time.
+
+
+CONCERNS
+Working on the same project at the same time - using branch control and merge functionality.
+is it better to work at one location or use comms and work remotely
+
+we should be able to have a working product by the end of the first effort? do we need to plan to achieve this (i.e. prebuild models, gather sound effects etc etc)
+
+
+TODO
+invader model - paul axis=3mx3mx1m
+player model - matt axis=3mx3mx1m
+projectile model - matt, to fire from a 150mm barrel, so needs to be smaller than 150mm wide.
+wallblock model - paul, each wall is 4m wide, 3m high, 1x1x1m deep
+audio - player drone sound, guns firing, projectile hit, beep per AI tick, score ding - we should meet and record.
+menu art - Paul
+choose font - Matt
+Set-up Git - matt
+ 

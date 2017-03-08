@@ -61,3 +61,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Test folder for the contributer
+test/*
+Test/*

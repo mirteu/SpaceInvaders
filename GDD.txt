@@ -39,12 +39,12 @@ we should be able to have a working product by the end of the first effort? do w
 
 
 TODO
-invader model - paul axis=3mx3mx1m
+invader model - paul axis=3mx3mx1m *Complete*
 player model - matt axis=3mx3mx1m
 projectile model - matt, to fire from a 150mm barrel, so needs to be smaller than 150mm wide.
-wallblock model - paul, each wall is 4m wide, 3m high, 1x1x1m deep
+wallblock model - paul, each wall is 4m wide, 3m high, 1x1x1m deep *Complete*
 audio - player drone sound, guns firing, projectile hit, beep per AI tick, score ding - we should meet and record.
-menu art - Paul
+menu art - Paul *Complete*
 choose font - Matt
 Set-up Git - matt *Completed*
  

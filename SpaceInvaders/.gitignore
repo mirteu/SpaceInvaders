@@ -63,8 +63,8 @@ Intermediate/*
 DerivedDataCache/*
 
 # Test folder for the contributer
-test/*
-Test/*
+Content/test/*
+Content/Test/*
 
 # Visual Studio 2015 user specific files
 .vs/

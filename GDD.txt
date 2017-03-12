@@ -46,5 +46,5 @@ wallblock model - paul, each wall is 4m wide, 3m high, 1x1x1m deep
 audio - player drone sound, guns firing, projectile hit, beep per AI tick, score ding - we should meet and record.
 menu art - Paul
 choose font - Matt
-Set-up Git - matt
+Set-up Git - matt *Completed*
  

@@ -11,7 +11,7 @@ Timing and movement controller
 Invaders
 Player
 Projectile
-Wallblock - Blueprint
+Wallblock - Blueprint - Created socketed blueprint
 Menu
 Audio
 Control System - Keyboard/mouse. Gamepad.
@@ -29,6 +29,8 @@ Background Music
 High Score
 Local Co-op
 upgrade system (get currency per wave?) to spend on wave warm up time.
+Player can receive damage - left wing damage = slower move left
+Special invaders - destroyed and repair ship
 
 
 CONCERNS
